@@ -1,0 +1,16 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+*.html
+
+### Python virtual environment ###
+env
+.env
+venv
+.venv
+.pytest_cache
+logs
+*__pycache__
